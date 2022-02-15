@@ -6,9 +6,9 @@
 - Secondly, theese words assign to python list. 
 - Thirdly, compare referance word list with sentence words.   
 - Fourthly, if words matched increase counter.
-- 
+
  <div align="center">
-    Start Page: <br>
+    Output Screen Shot: <br>
     <img src="https://github.com/sefaenesergin/pure-emotion-analysis-with-python/blob/main/emotionAnalysP1.png" />
  </div> 
  
@@ -23,7 +23,7 @@
   cd pure-emotion-analysis-with-python
   ```
 - ```shell
-  python3 pure-emotion-analysis-with-python.py
+  python3 duyguAnalizProje.py
   ```
   - we run our project. keep to read
 
