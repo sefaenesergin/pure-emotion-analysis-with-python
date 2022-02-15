@@ -32,7 +32,7 @@
 - ```shell
   python3 duyguAnalizProje.py
   ```
-  - we run our project. keep to read
+ we run our project. keep to read
 
 ## YouTube URL for how to use this program
 [Click](https://youtu.be/m5L0bEb4rm8) that link.
