@@ -13,6 +13,13 @@
  </div> 
  
 ## Installation and Run
+
+| Steps  |            Commands            | 
+|:------:|:------------------------------:| 
+| Step 1 |pip install snowballstemmer     | 
+| Step 2 |pip install pandas              | 
+| Step 3 |pip install openpyxl            | 
+
 - Firstly, you need python3.
 
 - ```shell 
