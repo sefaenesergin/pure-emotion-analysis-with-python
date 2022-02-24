@@ -4,7 +4,7 @@
 ## What's it do that code?
 - Firstly, this code read "example sentence" excel file. After that all words saved with for loop. 
 - Secondly, theese words assign to python list. 
-- Thirdly, compare referance word list with sentence words.   
+- Thirdly, compare to referance word list with sentence words.   
 - Fourthly, if words matched increase counter.
 
  <div align="center">
@@ -20,7 +20,7 @@
 | Step 2 |pip install pandas              | 
 | Step 3 |pip install openpyxl            | 
 
-- Firstly, you need python3.
+- Firstly, write above scripts on your terminal. Also you need python3.
 
 - ```shell 
   git clone https://github.com/sefaenesergin/pure-emotion-analysis-with-python.git
